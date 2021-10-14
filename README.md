@@ -9,5 +9,8 @@ After pooling, the data is fed through a single dense layer of size 128, and fin
 
 TensorBoard CNN
 
-![image](https://user-images.githubusercontent.com/30676606/137250849-40881fb4-70df-4878-a6c5-5257e2883276.png)
+![image](https://user-images.githubusercontent.com/30676606/137251077-6bdf853e-30bc-4876-abc0-9b1a4e44364b.png)
+
+
+
 

@@ -14,3 +14,9 @@ TensorBoard CNN
 
 
 
+
+![image](https://user-images.githubusercontent.com/30676606/137251251-7ebca418-0d2b-4005-be4d-75b61a9fbc7e.png)
+
+
+
+
